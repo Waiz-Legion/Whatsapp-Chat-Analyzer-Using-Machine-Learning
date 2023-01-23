@@ -7,7 +7,6 @@ seaborn
 urlextract
 wordcloud
 emoji
-collections
+
 nltk
-re 
-datetime
+
